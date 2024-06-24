@@ -39,6 +39,54 @@
     },
     {
       "app": "minecraft",
+      "url": "https://collectmods.com/Files/Addon3/swordsandmoreswords_2_4_6.mcaddon",
+      "path": "Download/SwordsMoreSwords.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2021-12/captura-de-pantalla-603_1-520x245.png",
+      "title": "Swords and More Swords",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. "
+    },
+    {
+      "app": "minecraft",
+      "url": "https://collectmods.com/Files/Addon3/baby%20player.mcpack",
+      "path": "Download/BabyPlayer.mcpack",
+      "image": "https://api.mcpedl.com/storage/submissions/133304/images/baby-player-resource-pack-multiplayer_4.png",
+      "title": "Baby Player",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. "
+    },
+    {
+      "app": "minecraft",
+      "url": "https://collectmods.com/Files/Addon3/betterportal-gun.mcaddon",
+      "path": "Download/BetterPortalGuns.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2023-09/20230831101043_1-520x245.png",
+      "title": "Better Portal Guns",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. "
+    },
+    {
+      "app": "minecraft",
+      "url": "https://collectmods.com/Files/Addon3/Wither-Storm-Addon-MCPE-1.20.mcaddon",
+      "path": "Download/WITHERSTORM.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2022-07/wither-storm_1-520x245.png",
+      "title": "WITHER STORM",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. "
+    },
+    {
+      "app": "minecraft",
+      "url": "https://collectmods.com/Files/Addon3/morph_addon.mcaddon",
+      "path": "Download/morph_addon.mcaddon",
+      "image": "https://mcpeland.io/uploads/posts/2022-04/morphru.png",
+      "title": "Morph",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. "
+    },
+    {
+      "app": "minecraft",
+      "url": "https://collectmods.com/Files/Addon3/Spider-Man-2-Addon-MCPE-1.20.mcaddon",
+      "path": "Download/spider-man2.mcaddon",
+      "image": "https://api.mcpedl.com/storage/submissions/193319/images/marvels-spider-man2_4.jpeg",
+      "title": "spider-man 2",
+      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. "
+    },
+    {
+      "app": "minecraft",
       "url": "https://collectmods.com/Files/Addon3/furniture-kraft.mcaddon",
       "path": "Download/FurnitureKraft.mcaddon",
       "image": "https://mcpeland.io/uploads/posts/2024-06/img20240520132451_1-520x245.png",
