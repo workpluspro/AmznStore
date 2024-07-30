@@ -21,11 +21,11 @@
       "interstitial": "f99e409b-f9ab-4a2e-aa9a-4d143e6809ae"
     },
     "ironsource": {
-      "id": "1f34cba9d",
-      "mrec": "DefaultMrec",
+      "id": "1f35989e5",
+      "mrec": "20676753",
       "active": false,
-      "banner": "DefaultBanner",
-      "interstitial": "DefaultInterstitial"
+      "banner": "20676753",
+      "interstitial": "20676751"
     }
   },
   "mods": [
