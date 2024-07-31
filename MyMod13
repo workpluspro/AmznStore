@@ -23,7 +23,7 @@
     "ironsource": {
       "id": "1f34cba9d",
       "mrec": "DefaultMrec",
-      "active": false,
+      "active": true,
       "banner": "DefaultBanner",
       "interstitial": "DefaultInterstitial"
     }
