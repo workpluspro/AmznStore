@@ -25,7 +25,7 @@
       "mrec": "DefaultBanner",
       "active": true,
       "banner": "DefaultBanner",
-      "interstitial": "ocx0lt5cz0cd95p5"
+      "interstitial": "DefaultInterstitial"
     }
   },
   "mods": [
