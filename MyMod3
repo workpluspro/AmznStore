@@ -22,10 +22,10 @@
     },
     "ironsource": {
       "id": "1f35989e5",
-      "mrec": "20676753",
+      "mrec": "Default",
       "active": true,
-      "banner": "DefaultBanner",
-      "interstitial": "DefaultBanner"
+      "banner": "Default",
+      "interstitial": "Default"
     }
   },
   "mods": [
