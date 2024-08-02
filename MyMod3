@@ -24,8 +24,8 @@
       "id": "1f35989e5",
       "mrec": "20676753",
       "active": true,
-      "banner": "20676753",
-      "interstitial": "20676751"
+      "banner": "DefaultBanner",
+      "interstitial": "DefaultBanner"
     }
   },
   "mods": [
