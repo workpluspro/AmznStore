@@ -8,7 +8,7 @@
     },
     "admob": {
       "mrec": "ca-app-pub-7866162452119399/7673888847",
-      "active": false,
+      "active": true,
       "banner": "ca-app-pub-7866162452119399/7673888847",
       "native": "ca-app-pub-7866162452119399/8487039969",
       "interstitial": "ca-app-pub-7866162452119399/1075453808"
@@ -23,7 +23,7 @@
     "ironsource": {
       "id": "1f35ae315",
       "mrec": "DefaultMrec",
-      "active": true,
+      "active": false,
       "banner": "DefaultBanner",
       "interstitial": "DefaultInterstitial"
     }
