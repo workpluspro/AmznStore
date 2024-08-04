@@ -7,11 +7,11 @@
       "interstitial": "709ad6cb10242f12"
     },
     "admob": {
-      "mrec": "ca-app-pub-3940256099942544/6300978111",
-      "active": false,
-      "banner": "ca-app-pub-3940256099942544/6300978111",
-      "native": "ca-app-pub-3940256099942544/2247696110",
-      "interstitial": "ca-app-pub-3940256099942544/1033173712"
+      "mrec": "ca-app-pub-7866162452119399/1019613482",
+      "active": true,
+      "banner": "ca-app-pub-7866162452119399/1019613482",
+      "native": "ca-app-pub-7866162452119399/4084760523",
+      "interstitial": "ca-app-pub-7866162452119399/5430868880"
     },
     "admost": {
       "id": "6cc8e89a-b52a-4e9a-bb8c-579f7ec538fe",
@@ -23,7 +23,7 @@
     "ironsource": {
       "id": "1f35a367d",
       "mrec": "DefaultMrec",
-      "active": true,
+      "active": false,
       "banner": "DefaultBanner",
       "interstitial": "DefaultInterstitial"
     }
